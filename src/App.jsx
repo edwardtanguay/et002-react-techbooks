@@ -1,5 +1,6 @@
 import './App.scss';
 import techbooks from './data/techbooks.json';
+import { Techbook } from './components/Techbook';
 
 function App() {
 	return (
@@ -7,12 +8,7 @@ function App() {
 			<h1>{techbooks.length} Tech Books</h1>
 			<div className="books">
 				{techbooks.map((techbook, index) => {
-					return (
-						<div className="book" key={index}>
-							<div className="title">{techbook.title}</div>
-							<div className="description">{techbook.description}</div>
-						</div>
-					);
+					return <Techbook key={index} techbook={techbook} />;
 				})}
 			</div>
 		</div>

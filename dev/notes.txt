@@ -15,7 +15,7 @@
 				- npm i sass
 		- x download JSON file of tech books: https://edwardtanguay.vercel.app/share/techBooks.json
 			- x save as .json file in site
-- .. App.jsx: display all tech books
-	- .. display titles
-- put each book in its own component: Book.jsx
+- x App.jsx: display all tech books
+	- x display titles
+- .. put each book in its own component: Book.jsx
 	- use props
