@@ -13,9 +13,9 @@
 			- x take out extra css file
 			- x install sass
 				- npm i sass
-		- .. download JSON file of tech books: https://edwardtanguay.vercel.app/share/techBooks.json
-			- save as .json file in site
-		- App.jsx
-			- display all tech books
-		- put each book in its own component: Book.jsx
-			- use props
+		- x download JSON file of tech books: https://edwardtanguay.vercel.app/share/techBooks.json
+			- x save as .json file in site
+- .. App.jsx: display all tech books
+	- .. display titles
+- put each book in its own component: Book.jsx
+	- use props
