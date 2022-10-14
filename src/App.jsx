@@ -10,6 +10,7 @@ function App() {
 					return (
 						<div className="book" key={index}>
 							<div className="title">{techbook.title}</div>
+							<div className="description">{techbook.description}</div>
 						</div>
 					);
 				})}
