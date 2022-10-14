@@ -7,8 +7,9 @@
 			- create-react-app (slower)
 			- x Vite (we'll use this)
 				- npm create vite
-			- .. install git
+			- x install git
 				- git init -b main
+		- .. minimize the site
 
 
 
