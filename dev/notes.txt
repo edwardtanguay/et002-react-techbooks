@@ -10,6 +10,8 @@
 			- x install git
 				- git init -b main
 		- .. minimize the site
+			- take out extra css file
+			- install sass
 
 
 
@@ -19,5 +21,3 @@
 			- display all tech books
 		- put each book in its own component: Book.jsx
 			- use props
-
-- install sass
