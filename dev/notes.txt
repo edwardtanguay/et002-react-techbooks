@@ -9,14 +9,11 @@
 				- npm create vite
 			- x install git
 				- git init -b main
-		- .. minimize the site
+		- x minimize the site
 			- x take out extra css file
-			- .. install sass
+			- x install sass
 				- npm i sass
-
-
-
-		- download JSON file of tech books: https://edwardtanguay.vercel.app/share/techBooks.json
+		- .. download JSON file of tech books: https://edwardtanguay.vercel.app/share/techBooks.json
 			- save as .json file in site
 		- App.jsx
 			- display all tech books
