@@ -10,8 +10,9 @@
 			- x install git
 				- git init -b main
 		- .. minimize the site
-			- take out extra css file
-			- install sass
+			- x take out extra css file
+			- .. install sass
+				- npm i sass
 
 
 
